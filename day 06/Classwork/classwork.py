@@ -1,0 +1,6 @@
+print(23+345)
+print(28+365)
+print(85%5)
+print(78%2)
+print(15*16)
+print(26*2)
