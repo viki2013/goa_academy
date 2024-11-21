@@ -1,0 +1,5 @@
+number = int(input("enter your number"))
+number2 = int(input("enter your number"))
+print(number < number2)
+print(number > number2)
+print(number == number2)
