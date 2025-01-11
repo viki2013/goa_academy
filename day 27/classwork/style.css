@@ -1,0 +1,16 @@
+.paragraph-1 {
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
+
+.paragraph-2 {
+    border: 2px dashed blue;
+    padding: 10px;
+}
+
+.paragraph-3 {
+    border: 4px dotted green;
+    padding: 10px;
+}
