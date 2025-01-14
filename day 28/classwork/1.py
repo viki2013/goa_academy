@@ -1,0 +1,6 @@
+thinks = ["notebook" , "book" , "pencil" , "pen" , "markers"]
+print[thinks[0]]
+print[thinks[1]]
+print[thinks[2]]
+print[thinks[3]]
+print[thinks[4]]
