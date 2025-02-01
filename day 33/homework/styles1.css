@@ -1,0 +1,33 @@
+/* ზოგადი სტილი */
+div {
+    color: rgb(11, 174, 41);
+    background-color: rgb(182, 7, 114);
+    text-align: center;
+}
+
+
+
+#box1 {
+    background-color: rgb(255, 200, 200); 
+    color: rgb(100, 0, 0); /* მუქი წითელი */
+}
+
+#box2 {
+    background-color: rgb(200, 255, 200);
+    color: rgb(0, 100, 0); /* მუქი მწვანე */
+}
+
+#box3 {
+    background-color: rgb(200, 200, 255); 
+    color: rgb(0, 0, 100); /* მუქი ლურჯი */
+}
+
+#box4 {
+    background-color: rgb(255, 255, 200); /* ღია ყვითელი */
+    color: rgb(100, 100, 0);/
+}
+
+#box5 {
+    background-color: rgb(255, 200, 255); /* ღია იისფერი */
+    color: rgb(100, 0, 100); 
+}
