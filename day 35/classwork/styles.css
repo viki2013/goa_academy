@@ -1,0 +1,41 @@
+
+#para1 { 
+    color: #FF5733; background-color: #1A1A1D;
+ }
+#para2 { 
+    color: #33FF57; background-color: #2B2B2B;
+ }
+#para3 { 
+    color: #5733FF; background-color: #3D3D3D;
+ }
+#para4 {
+     color: #FFD700; background-color: #4F4F4F;
+     }
+#para5 {
+     color: #FF33A6; background-color: #5E5E5E; 
+    }
+#para6 {
+     color: #33A6FF; background-color: #6D6D6D; 
+    }
+#para7 { 
+    color: #A633FF; background-color: #7C7C7C;
+ }
+#para8 {
+     color: #FF8C33; background-color: #8B8B8B;
+     }
+#para9 {
+     color: #33FFEC; background-color: #9A9A9A; 
+    }
+#para10 {
+     color: #EC33FF; background-color: #A9A9A9;
+     }
+
+#red-box {
+     width: 400px; height: 400px; background-color: #FF0000;
+     }
+#green-box {
+     width: 200px; height: 100px; background-color: #00FF00;
+     }
+#blue-box { 
+    width: 50px; height: 100px; background-color: #0000FF;
+ }
