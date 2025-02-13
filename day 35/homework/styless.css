@@ -1,0 +1,39 @@
+.ki {
+    background-color: rgb(138, 43, 226); color: aqua;
+}
+
+.no{
+    background-color: rgb(127, 255, 212); color: blue;
+}
+
+.w{
+    background-color: rgb(165, 42, 42); color: bisque;
+}
+
+.b{
+   background-color: rgb(65, 105, 225); color: rgb(203, 150, 81);
+}
+
+.r{
+    background-color: rgb(95, 158, 160);color: rgb(210, 105, 30);
+}
+
+.f{ 
+      color: #FF5733; background-color: #1A1A1D;;
+}
+
+.m{
+    color: #5733FF; background-color: #3D3D3D;
+}
+
+.y{
+    color: #3D3D3D; background-color: #513939;
+}
+
+.o{
+    color: #48349a; background-color: #FF5733;
+}
+
+.l{
+    color: #347791;  background-color: #bc1d5f;
+}
