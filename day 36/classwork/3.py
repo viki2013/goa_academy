@@ -7,4 +7,4 @@ def manual_isdigit(user_str):
 # ტესტი
 print(manual_isdigit("12345"))  # True
 print(manual_isdigit("123a5"))  # False
-print(manual_isdigit(""))       # False (isdigit() ცარიელ სტრინგზე False-ს აბრუნებს)
+ 
