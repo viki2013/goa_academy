@@ -1,0 +1,11 @@
+.underline {
+    text-decoration: underline;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.overline {
+    text-decoration: overline;
+}

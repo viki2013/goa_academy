@@ -1,0 +1,22 @@
+h1 , h2 , h3{
+    text-shadow: 2px 2px 5px rgb(19, 19, 19);
+}
+nav a{
+    text-decoration: uppercase;
+}
+
+p{
+    text-decoration: dotted;
+}
+
+.goa{
+    text-shadow: 2px 2px 5px red;
+}
+
+.sixa{
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.q{
+    text-shadow: 2px 2px 5px rgb(0, 255, 60);
+}
