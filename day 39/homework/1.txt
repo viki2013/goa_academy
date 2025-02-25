@@ -1,0 +1,40 @@
+1.Hello World
+2.#
+3.პითონში range() ფუნქცია გამოიყენება რიცხვების თანმიმდევრობით დალაგებაში.
+4.+
+6.input()
+7.for , while
+8.float
+9. False
+10.while
+11.Hello World
+12.0
+13.py
+14.True
+16.15
+18. 2,4,6,8
+19.უსასრულო ციკლის შესაქმნელად
+21.True , False
+23.and
+24.print(my_list[2])
+26. Hyper Text Markup Language
+28.Hyperlink
+29.h1
+30.alt
+31. სათაური , ვებსაიტის სათაური
+32.br
+33.ul
+34.<input type = checkbox>
+35.style
+37.a
+38. ამკვეთრებს ტექსტს
+39.<form>
+40.id
+41.label
+42.ნავიგაციის ლინკის შესაქმნელად
+43.რომ ჩაიწეროს შიგნით მთავარი ვებსაიტის ინფორმაცია
+44.<!---->
+46.img 
+47.audio
+48.video
+49.True
