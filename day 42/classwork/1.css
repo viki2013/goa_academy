@@ -1,0 +1,17 @@
+
+a {
+    color: blue; /* ლინკის საწყისი ფერი */
+    text-decoration: line-through; 
+}
+
+a:hover {
+    color: red; /* hover-ზე ფერის შეცვლა */
+    text-decoration: overline; /* ტექსტის ზემოთ ხაზი */
+}
+
+a:visited {
+    background-color: lightgray; /* background ფერი ვიზიტირებული ლინკისთვის */
+    font-style: italic; /* დახრილი ტექსტი */
+    font-family: Arial, sans-serif; /* შრიფტის ტიპი */
+    font-weight: bold; /* ტექსტი გამუქებულია */
+}
