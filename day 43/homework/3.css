@@ -1,0 +1,53 @@
+ul {
+    list-style-type: square;
+    list-style: lower-alpha;
+    background-color: antiquewhite;
+}
+
+
+#w{
+    color: brown;
+}
+
+
+
+#r{
+    color: blueviolet;
+}
+
+#y{
+    color: violet;
+}
+
+#i{
+    color: lawngreen;
+}
+
+
+#p{
+    color: lightcoral;
+}
+
+
+#s{
+    color: red;
+}
+
+
+#f{
+    color: darkorchid;
+}
+
+
+#h{
+    color: darkgray;
+}
+
+#k{
+    color: darkmagenta;
+}
+
+
+#z{
+    color: coral;
+}

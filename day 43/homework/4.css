@@ -1,0 +1,29 @@
+ul {
+    list-style-type: square;
+    list-style: lower-alpha;
+    background-color: antiquewhite;
+}
+
+#e{
+    color: darkkhaki;
+}
+
+#y{
+    color: saddlebrown;
+}
+
+#o{
+    color: lawngreen;
+}
+
+#s{
+    color: burlywood;
+}
+
+#g{
+    color: red;
+}
+
+#k{
+    color: darkmagenta;
+}

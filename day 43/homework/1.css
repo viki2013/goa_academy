@@ -1,0 +1,29 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+table {
+    border-collapse: collapse;
+    background-color: white;
+    color: black;
+}
+th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+th {
+    color: white;
+}
+.table-header-red {
+    background-color: #e74c3c;
+}
+.table-header-green {
+    background-color: #27ae60;
+}
+.table-header-blue {
+    background-color: #2980b9;
+}
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
