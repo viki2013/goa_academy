@@ -1,0 +1,29 @@
+/* Add padding inside a div */
+.div1 {
+    padding: 20px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+
+.div2{
+    padding: 10px 20px 30px 40px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+
+.div3{
+    padding: 20px;
+    background-color: lightgreen;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+
+.p4{
+    margin: 20px;
+    background-color: lightcoral;
+    padding: 10px;
+    border: 1px solid black;
+}
