@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: white;
+  }
+
+.circle {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 0, 17);
+    border-radius: 50%;
+    animation: vikik 4s;
+  }
+
+  @keyframes vikik {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.6); }
+    100% { transform: scale(1); }
+  }
