@@ -1,0 +1,52 @@
+body{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#parent-div{
+    width: 90%;
+    height: 600px;
+    display: grid;
+    grid-template-columns:repeat(12,1fr) ;
+    grid-template-rows: (6,1fr);
+}
+
+#parent_div  div{
+    background-color:rgb(100, 253, 100) ;
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+#header{
+    grid-area: 1/1/5/2;
+}
+
+#side-bar{
+    grid-area: 1/2/2/4;
+}
+
+#content-1{
+    grid-area: 2/2/3/6;
+}
+
+#content-2{
+    grid-area: 2/3/3/4;
+}
+
+#content-3{
+    grid-area: 4/3/6/4;
+}
+
+#footer{
+    grid-area: 1/4/6/5;
+}
